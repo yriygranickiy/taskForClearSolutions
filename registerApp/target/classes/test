@@ -1,0 +1,45 @@
+{
+  "email": "doe@gmail.com",
+  "first_name": "John",
+  "last_name": "Doe",
+  "birthday": "2002-04-11",
+  "address": "Dolmatova 19",
+  "phone_number": "+0987235647"
+}
+
+{
+  "email": "hranitskyi@gmail.com",
+  "first_name": "Yurii",
+  "last_name": "Hranitskiy",
+  "birthday": "1998-10-17",
+  "address": "Dolmatova 12",
+  "phone_number": "+0977233844"
+}
+
+{
+  "email": "bob@gmail.com",
+  "first_name": "Bob",
+  "last_name": "Nickolson",
+  "birthday": "2009-12-28",
+  "address": "Svobodi 12",
+  "phone_number": "+0678562638"
+}
+
+
+{
+  "email": "nick@gmail.com",
+  "first_name": "Nick",
+  "last_name": "Lept",
+  "birthday": "2001-01-25",
+  "address": "Svobodi 79",
+  "phone_number": "+0678567611"
+}
+
+{
+  "email": "Gregory98@gmail.com",
+  "first_name": "Gregory",
+  "last_name": "Tatys",
+  "birthday": "1995-01-05",
+  "address": "Anoskina 9",
+  "phone_number": "+0978265621"
+}
